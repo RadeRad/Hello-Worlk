@@ -1,2 +1,3 @@
-# Hello-Worlk
+# Hello-World
 Learning about the Git Hub repository
+I am learning how to use GitHub...
